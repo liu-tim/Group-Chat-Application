@@ -10,7 +10,6 @@ What is it?
 
 How will it be built?
 •	Using network sockets
-•	Programmed using Java
 •	Using Eclipse IDE with J2EE and Tomcat server support
 
 What is sockets?
